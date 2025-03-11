@@ -65,6 +65,6 @@ All these experiences have given him a broader view of life, and help understand
 ----
 
 ##### Social Media Profiles:
-- Code and Content: [Youtube](https://www.youtube.com/@CodeBeings), [Github](http://github.com/mr-ravin), [Goodreads](https://www.goodreads.com/ravinkumar21).
+- Code and Content: [Youtube](https://www.youtube.com/@CodeBeings), [Github](http://github.com/mr-ravin), [Goodreads](https://www.goodreads.com/ravinkumar21), [Medium](https://medium.com/@ch.ravinkumar/).
 - Social Media: [Linkedin](https://in.linkedin.com/in/ravinkumar21), [Twitter](https://twitter.com/Mr_RavinKumar), [Instagram](https://www.instagram.com/artistravin), [Facebook](https://www.facebook.com/ravinkumar21), [Reddit](https://www.reddit.com/user/TheMatrixGods/).
 - Research: [Research Gate](https://www.researchgate.net/profile/Ravin-Kumar), [Orcid](https://orcid.org/0000-0002-3416-2679), [Google Scholar](https://scholar.google.co.in/citations?user=cNAbJxcAAAAJ).
