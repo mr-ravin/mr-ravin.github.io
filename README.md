@@ -2,8 +2,8 @@
 
 Hi, I am Ravin 👋
 
-A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin/) 🎨, [engineer](https://github.com/mr-ravin/) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🤖, [inventor](https://mr-ravin.github.io/inventor/) ⚙️, [economist](https://mr-ravin.github.io/economist/) 📈, [poet](https://mr-ravin.github.io/poet/) 📝, [ethical hacker](https://mr-ravin.github.io/hacker/) 👾
-, [mathematician](https://mr-ravin.github.io/mathematician/) 🎲, [video game developer](https://mr-ravin.github.io/gamedev/) 🎮, [author](https://mr-ravin.github.io/author/) ✍️... 🚀 #offline
+A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin) 🎨, [engineer](https://github.com/mr-ravin) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🤖, [inventor](https://mr-ravin.github.io/inventor) ⚙️, [economist](https://mr-ravin.github.io/economist) 📈, [poet](https://mr-ravin.github.io/poet) 📝, [ethical hacker](https://mr-ravin.github.io/hacker) 👾
+, [mathematician](https://mr-ravin.github.io/mathematician) 🎲, [video game developer](https://mr-ravin.github.io/gamedev) 🎮, [author](https://mr-ravin.github.io/author) ✍️... 🚀 #offline
 
 He is author of the book 📘 "[The Engineer’s Plan](https://mr-ravin.github.io/author)", and runs a youtube channel ▶️ "[Code Beings](https://youtube.com/@codebeings)" for sharing knowledge related to computer programming.
 
@@ -53,18 +53,18 @@ Some of his achievements are mentioned below:
   - 🚀  [Ravdec](https://github.com/mr-ravin/ravdec): Ravdec is a Python module implementing a **lossless data compression** algorithm designed by [Ravin Kumar](https://mr-ravin.github.io). This algorithm is designed exclusively for **textual data**, including **alphabets, numbers, and symbols**. The algorithm is available in Python as pip package: `pip install ravdec` and in Javascript as npm package: `npm i ravdecjs`. Github for Python implementation: [Ravdec](https://github.com/mr-ravin/ravdec) and Javascript implementation: [RavdecJS](https://www.npmjs.com/package/ravdecjs).
 - 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing.
 - 📝 <i><b>Poetry & Reflections</b></i>:
-  - [Not A Play](https://mr-ravin.github.io/poet/).
-  - [To be](https://mr-ravin.github.io/poet/).
-  - [The devil's rule](https://mr-ravin.github.io/poet/).
-  - [A Journey](https://mr-ravin.github.io/poet/).
+  - [Not A Play](https://mr-ravin.github.io/poet).
+  - [To be](https://mr-ravin.github.io/poet).
+  - [The devil's rule](https://mr-ravin.github.io/poet).
+  - [A Journey](https://mr-ravin.github.io/poet).
 - 🎨 <i><b>Art & Expression</b></i>:
-    - [Artist's Portfolio](https://mr-ravin.github.io/artistravin/).
+    - [Artist's Portfolio](https://mr-ravin.github.io/artistravin).
   
 All these experiences have given him a broader view of life, and help understand the world better. 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
 
 ----
 
 ##### Social Media Profiles:
-- Code and Content: [Youtube](https://www.youtube.com/@CodeBeings), [Github](http://github.com/mr-ravin), [Goodreads](https://www.goodreads.com/ravinkumar21), [Medium](https://medium.com/@ch.ravinkumar/).
-- Social Media: [Linkedin](https://in.linkedin.com/in/ravinkumar21), [Twitter](https://twitter.com/Mr_RavinKumar), [Instagram](https://www.instagram.com/artistravin), [Facebook](https://www.facebook.com/ravinkumar21), [Reddit](https://www.reddit.com/user/TheMatrixGods/).
+- Code and Content: [Youtube](https://www.youtube.com/@CodeBeings), [Github](http://github.com/mr-ravin), [Goodreads](https://www.goodreads.com/ravinkumar21), [Medium](https://medium.com/@ch.ravinkumar).
+- Social Media: [Linkedin](https://in.linkedin.com/in/ravinkumar21), [Twitter](https://twitter.com/Mr_RavinKumar), [Instagram](https://www.instagram.com/artistravin), [Facebook](https://www.facebook.com/ravinkumar21), [Reddit](https://www.reddit.com/user/TheMatrixGods).
 - Research: [Research Gate](https://www.researchgate.net/profile/Ravin-Kumar), [Orcid](https://orcid.org/0000-0002-3416-2679), [Google Scholar](https://scholar.google.co.in/citations?user=cNAbJxcAAAAJ).
