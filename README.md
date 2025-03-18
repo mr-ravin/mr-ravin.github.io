@@ -17,9 +17,11 @@ Some of his achievements are mentioned below:
 - 🔬 <i><b>Research Works</b></i> done in various fields:
   - 🤖 Deep Learning and Artificial Intelligence
     - [APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning](https://arxiv.org/abs/2209.06119).
+    <!-- APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning -- Peer Reviewed Version of APTX is in International Journal of Artificia Intelligence and Machine Learning  --https://doi.org/10.51483/IJAIML.2.2.2022.56-61 -->
     - [Visual Linguistic Model and Its Applications in Image Captioning](https://doi.org/10.1007/s42979-020-00135-w).
     - [Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs](https://doi.org/10.1007/s42979-020-0101-1).
     - [Adding Binary Search Connections to Improve DenseNet Performance](https://doi.org/10.2139/ssrn.3545071).
+      <!-- Adding Binary Search Connections to Improve DenseNet Performance--Conference Proceedings of NGCT-- https://doi.org/10.2139/ssrn.3545071 -->
     - [New Approach to Train LSTMs, GRUs, and Other Similar Networks for Data Generation](https://doi.org/10.1007/978-981-15-1718-1_14).
   - ⚛ Quantum Computing
     - [A Generalized Quantum Algorithm for Assuring Fairness in Random Selection Among 2<sup>N</sup> Participants](https://doi.org/10.1007/s42979-020-0091-z).
