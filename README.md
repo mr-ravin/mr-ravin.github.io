@@ -3,13 +3,13 @@
 Hi, I am Ravin 👋
 
 A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin) 🎨, [engineer](https://github.com/mr-ravin) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🤖, [inventor](https://mr-ravin.github.io/inventor) ⚙️, [economist](https://mr-ravin.github.io/economist) 📈, [poet](https://mr-ravin.github.io/poet) 📝, [ethical hacker](https://mr-ravin.github.io/hacker) 👾
-, [mathematician](https://mr-ravin.github.io/mathematician) 🎲, [video game developer](https://mr-ravin.github.io/gamedev) 🎮, [author](https://mr-ravin.github.io/author) ✍️, traveler ❄️🌿🌵🌊🪁⛰️⛵🏝️🌏🌍🌎
+, [mathematician](https://mr-ravin.github.io/mathematician) 🎲, [game developer](https://mr-ravin.github.io/gamedev) 🎮, [author](https://mr-ravin.github.io/author) ✍️, traveler ❄️🌿🌵🌊🪁⛰️⛵🏝️🌏🌍🌎
 
-He is author of the book 📘 "[The Engineer’s Plan](https://mr-ravin.github.io/author)", and runs a youtube channel ▶️ "[Code Beings](https://youtube.com/@codebeings)" for sharing knowledge related to computer programming.
+He is the author of the book 📘 "[The Engineer’s Plan](https://mr-ravin.github.io/author)", and runs two youtube channels: ▶️ [Code Beings](https://youtube.com/@codebeings) focused on computer programming, and ▶️ [Ch.RavinKumar](https://youtube.com/@Ch.RavinKumar), where he shares his personal journey of learning languages and traveling.
 
 Some of his achievements are mentioned below: 
-- 📘 Author of book: [The Engineer's Plan](https://mr-ravin.github.io/author).
-- ▶️ Youtube Channel: [Code Beings](https://youtube.com/@codebeings).
+- 📘 Author of the book: [The Engineer's Plan](https://mr-ravin.github.io/author).
+- ▶️ Youtube Channels: [Code Beings](https://youtube.com/@codebeings), and [Ch.RavinKumar](https://youtube.com/@Ch.RavinKumar).
 - 👨‍💻 Creator of [Embrace Language](http://copyright.gov.in/SearchRoc.aspx), Diary Number: 6/2018-CO/SW.
 - ⚙️ <i><b>Patented Inventions</b></i>:
   - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://mr-ravin.github.io/inventor/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf)
@@ -64,7 +64,7 @@ Some of his achievements are mentioned below:
 - 🎨 <i><b>Art & Expression</b></i>:
     - [Artist's Portfolio](https://mr-ravin.github.io/artistravin).
   
-All these experiences have given him a broader view of life, and help understand the world better. 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io)
+All these experiences have given him a broader view of life, and help understand the world better. 🤩 Excited to know more, do visit his personal website: [RAVIN KUMAR](https://mr-ravin.github.io).
 
 ----
 
