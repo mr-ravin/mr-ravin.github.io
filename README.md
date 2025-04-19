@@ -5,7 +5,7 @@ Hi, I am Ravin 👋
 A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin) 🎨, [engineer](https://github.com/mr-ravin) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🤖, [inventor](https://mr-ravin.github.io/inventor) ⚙️, [economist](https://mr-ravin.github.io/economist) 📈, [poet](https://mr-ravin.github.io/poet) 📝, [ethical hacker](https://mr-ravin.github.io/hacker) 👾
 , [mathematician](https://mr-ravin.github.io/mathematician) 🎲, [game developer](https://mr-ravin.github.io/gamedev) 🎮, [author](https://mr-ravin.github.io/author) ✍️, traveler ❄️🌿🌵🌊🪁⛰️⛵🏝️🌏🌍🌎
 
-He is the author of the book 📘 "[The Engineer’s Plan](https://mr-ravin.github.io/author)", and runs two youtube channels: ▶️ [Code Beings](https://youtube.com/@codebeings) focused on computer programming, and ▶️ [Ch.RavinKumar](https://youtube.com/@Ch.RavinKumar), where he shares his personal journey of learning languages and traveling.
+He is the author of the book 📘 "[The Engineer’s Plan](https://mr-ravin.github.io/author)", and runs two youtube channels: ▶️ "[Code Beings](https://youtube.com/@codebeings)" focused on computer programming, and ▶️ "[Ch.RavinKumar](https://youtube.com/@Ch.RavinKumar)", where he shares his personal journey of learning languages and traveling.
 
 Some of his achievements are mentioned below: 
 - 📘 Author of the book: [The Engineer's Plan](https://mr-ravin.github.io/author).
