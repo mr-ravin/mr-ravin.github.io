@@ -62,7 +62,7 @@ Some of his achievements are mentioned below:
   - [The devil's rule](https://mr-ravin.github.io/poet).
   - [A Journey](https://mr-ravin.github.io/poet).
 - 📃 <i><b>Ravin Writings</b></i>:
-  - [The River Between Us: Because Even Rivers Choose Love](https://mr-ravin.github.io/The_River_Between_Us__by_Ravin_Kumar.pdf)
+  - [The River Between Us: Because Even Rivers Choose Love](https://mr-ravin.github.io/The_River_Between_Us__by_Ravin_Kumar.pdf).
 - 🎨 <i><b>Art & Expression</b></i>:
     - [Artist's Portfolio](https://mr-ravin.github.io/artistravin).
   
