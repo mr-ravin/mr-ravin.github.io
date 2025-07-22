@@ -16,6 +16,7 @@ Some of his achievements are mentioned below:
   - [x] [A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF](https://mr-ravin.github.io/inventor/static/media/PatentCertificateStorageDevice.fa3d048e457c160e6eef.pdf).
 - 🔬 <i><b>Research Works</b></i> done in various fields:
   - 🤖 Deep Learning and Artificial Intelligence
+    - [APTx Neuron: A Unified Trainable Neuron Architecture Integrating Activation and Computation](https://arxiv.org/abs/2507.14270).
     - [APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning](https://arxiv.org/abs/2209.06119).
     <!-- APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning -- Peer Reviewed Version of APTX is in International Journal of Artificia Intelligence and Machine Learning  --https://doi.org/10.51483/IJAIML.2.2.2022.56-61 -->
     - [Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs](https://doi.org/10.1007/s42979-020-0101-1).
