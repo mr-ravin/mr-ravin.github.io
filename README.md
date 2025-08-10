@@ -65,6 +65,7 @@ Some of his achievements are mentioned below:
   - [A Journey](https://mr-ravin.github.io/poet).
 - 📃 <i><b>Ravin Writings</b></i>:
   - [The River Between Us: Because Even Rivers Choose Love](https://mr-ravin.github.io/The_River_Between_Us__by_Ravin_Kumar.pdf).
+  - Shayari: [आख़िरी हिम्मत](https://mr-ravin.github.io/Shayari.pdf)
 - 🎨 <i><b>Art & Expression</b></i>:
     - [Artist's Portfolio](https://mr-ravin.github.io/artistravin).
   
