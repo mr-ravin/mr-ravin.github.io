@@ -30,7 +30,8 @@ Some of his achievements are mentioned below:
     - [Cyclic Scheduling Algorithm](https://link.springer.com/chapter/10.1007%2F978-981-13-5953-8_38). 
     - [Modified Counting Sort](https://link.springer.com/chapter/10.1007%2F978-981-10-7323-6_21).
   - 📐 Mathematics
-    - [Adaptive Base Representation Theorem: An Alternative to Binary Number System](https://doi.org/10.1007/978-981-96-7499-2_37). 
+    - [Adaptive Base Representation Theorem: An Alternative to Binary Number System](https://arxiv.org/abs/2510.15099).
+    <!-- Adaptive Base Representation Theorem: An Alternative to Binary Number System -- Kumar, R. (2026). Adaptive Base Representation Theorem: An Alternative to Binary Number System. In: Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. SmartCom 2025. Lecture Notes in Networks and Systems, vol 1458. Springer, Singapore. https://doi.org/10.1007/978-981-96-7499-2_37 --> 
     - [A Theorem on Numbers of the Form 10<sup>x</sup>](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.81d467c69abaacb62887.pdf).
     - [Theorems for Arcs of Different Circles having Same Arc-Angles with Application in Concave and Convex Structures](https://mr-ravin.github.io/mathematician/static/media/TheoremsForArcsOfDifferentCircles.3d3f1b808d7cc9312931.pdf).
   - 💰 Theoretical Economics
