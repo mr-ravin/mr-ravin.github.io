@@ -1,4 +1,4 @@
-[![The Engineer's Plan](https://github.com/mr-ravin/mr-ravin.github.io/blob/main/APTxNeuron_and_ABR_Theorem_cover.png)](https://mr-ravin.github.io/author)
+[![Research Works](https://github.com/mr-ravin/mr-ravin.github.io/blob/main/APTxNeuron_and_ABR_Theorem_cover.png)](https://orcid.org/0000-0002-3416-2679)
 
 Hi, I am Ravin 👋
 
