@@ -2,7 +2,7 @@
 
 Hi, I am Ravin 👋
 
-A curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin) 🎨, [engineer](https://github.com/mr-ravin) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🤖, [inventor](https://mr-ravin.github.io/inventor) ⚙️, [economist](https://mr-ravin.github.io/economist) 📈, [poet](https://mr-ravin.github.io/poet) 📝, [ethical hacker](https://mr-ravin.github.io/hacker) 👾
+[Ravin Kumar](https://mr-ravin.github.io) (born 21 August 1993) is a curious person 🙂 blessed 😇 to see life as an [artist](https://mr-ravin.github.io/artistravin) 🎨, [engineer](https://github.com/mr-ravin) 🎓, [researcher](https://orcid.org/0000-0002-3416-2679) 🤖, [inventor](https://mr-ravin.github.io/inventor) ⚙️, [economist](https://mr-ravin.github.io/economist) 📈, [poet](https://mr-ravin.github.io/poet) 📝, [ethical hacker](https://mr-ravin.github.io/hacker) 👾
 , [mathematician](https://mr-ravin.github.io/mathematician) 🎲, [game developer](https://mr-ravin.github.io/gamedev) 🎮, [author](https://mr-ravin.github.io/author) 📘, [writer](https://mr-ravin.github.io/RavinWritings) ✍️, traveler ❄️🌿🌵🌊🪁⛰️⛵🏝️🌏🌍🌎
 
 He is the author of the books 📘 “[The Engineer’s Plan](https://mr-ravin.github.io/author)”, and “[Philosophy of the Trident](https://mr-ravin.github.io/author)”, along with its Hindi version “[त्रिशूल दर्शन](https://mr-ravin.github.io/author)”; and runs a youtube channel ▶️ “[Code Beings](https://youtube.com/@codebeings)” focused on computer programming.
