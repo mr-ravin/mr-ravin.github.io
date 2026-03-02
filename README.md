@@ -7,7 +7,6 @@ He is the author of the books 📘 “[The Engineer’s Plan](https://mr-ravin.g
 
 Some of his achievements are mentioned below: 
 - 💼 Working experience in product-focused startups and companies in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing.
-- 👨‍💻 Creator of [Embrace Language](http://copyright.gov.in/SearchRoc.aspx), Diary Number: 6/2018-CO/SW.
 - ⚙️ <i><b>Patented Inventions</b></i>:
   - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://mr-ravin.github.io/inventor/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf).
   - [x] [A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF](https://mr-ravin.github.io/inventor/static/media/PatentCertificateStorageDevice.fa3d048e457c160e6eef.pdf).
@@ -45,6 +44,7 @@ Some of his achievements are mentioned below:
     - [EnText](https://github.com/mr-ravin/EnText): Opensource text encryption tool for android using AES-128 bit encryption.
     - [Password Manager - Cybersecure](https://github.com/mr-ravin/PasswordManager-CyberSecure-Android-App): This opensource application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
     - [Confi Book - an encrypted book](https://github.com/mr-ravin/ConfiBook-Android-App): This opensource application stores all of its data entries in a 256 bit encrypted format on the device itself, thus it works completely offline.
+- 👨‍💻 Creator of [Embrace Language](http://copyright.gov.in/SearchRoc.aspx), Diary Number: 6/2018-CO/SW.
 - 🐍 <i><b>Python Packages</b></i>:
     - ⚡ [APTx Neuron](https://github.com/mr-ravin/aptx_neuron): A Pytorch implementation of **APTx Neuron**: A Unified Trainable Neuron Architecture Integrating Activation and Computation. pip package: `pip install aptx_neuron`  
   - ⚡ [APTx Activation Function](https://github.com/mr-ravin/aptx_activation): A Pytorch implementation of **APTx**: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning. pip package: `pip install aptx_activation`  
