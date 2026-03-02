@@ -7,8 +7,7 @@ He is the author of the books 📘 “[The Engineer’s Plan](https://mr-ravin.g
 
 Some of his achievements are mentioned below: 
 - 📘 Author of the book: [The Engineer's Plan](https://mr-ravin.github.io/author).
-- 📘 Author of the book: [Philosophy of the Trident](https://mr-ravin.github.io/author).
-- 📘 Author of the book: [त्रिशूल दर्शन](https://mr-ravin.github.io/author).
+- 📘 Author of the book: [Philosophy of the Trident](https://mr-ravin.github.io/author), along with its Hindi version [त्रिशूल दर्शन](https://mr-ravin.github.io/author).
 - ▶️ Youtube Channel: [Code Beings](https://youtube.com/@codebeings).
 - 👨‍💻 Creator of [Embrace Language](http://copyright.gov.in/SearchRoc.aspx), Diary Number: 6/2018-CO/SW.
 - ⚙️ <i><b>Patented Inventions</b></i>:
