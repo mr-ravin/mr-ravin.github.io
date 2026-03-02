@@ -6,10 +6,7 @@
 He is the author of the books 📘 “[The Engineer’s Plan](https://mr-ravin.github.io/author)”, and “[Philosophy of the Trident](https://mr-ravin.github.io/author)”, along with its Hindi version “[त्रिशूल दर्शन](https://mr-ravin.github.io/author)”; and runs a youtube channel ▶️ “[Code Beings](https://youtube.com/@codebeings)” focused on computer programming.
 
 Some of his achievements are mentioned below: 
-- 📘 Author of the book: [The Engineer's Plan](https://mr-ravin.github.io/author).
-- 📘 Author of the book: [Philosophy of the Trident](https://mr-ravin.github.io/author), along with its Hindi version [त्रिशूल दर्शन](https://mr-ravin.github.io/author).
-- ▶️ Youtube Channel: [Code Beings](https://youtube.com/@codebeings).
-- 👨‍💻 Creator of [Embrace Language](http://copyright.gov.in/SearchRoc.aspx), Diary Number: 6/2018-CO/SW.
+- 💼 Working experience in product-focused startups and companies in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing.
 - ⚙️ <i><b>Patented Inventions</b></i>:
   - [x] [ARTIFICIAL INTELLIGENCE ENABLED AUTOMATED SYSTEM FOR TARGETED CONTENT ON DISPLAY DEVICES](https://mr-ravin.github.io/inventor/static/media/PatentCertificateAdvertise.20247443d594bd164549.pdf).
   - [x] [A PORTABLE DATA STORAGE DEVICE FOR SECURED DATA SYNCHRONIZATION AND ITS METHOD THEREOF](https://mr-ravin.github.io/inventor/static/media/PatentCertificateStorageDevice.fa3d048e457c160e6eef.pdf).
@@ -52,7 +49,6 @@ Some of his achievements are mentioned below:
   - ⚡ [APTx Activation Function](https://github.com/mr-ravin/aptx_activation): A Pytorch implementation of **APTx**: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning. pip package: `pip install aptx_activation`  
   - 🧠 [Cerebral LSTM](https://github.com/mr-ravin/cerebral_lstm): A PyTorch implementation of **Cerebral LSTM**: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs. pip package: `pip install cerebral_lstm`
   - 🚀  [Ravdec](https://github.com/mr-ravin/ravdec): Ravdec is a Python module implementing a **lossless data compression** algorithm designed by [Ravin Kumar](https://mr-ravin.github.io). This algorithm is designed exclusively for **textual data**, including **alphabets, numbers, and symbols**. The algorithm is available in Python as pip package: `pip install ravdec` and in Javascript as npm package: `npm i ravdecjs`. Github for Python implementation: [Ravdec](https://github.com/mr-ravin/ravdec) and Javascript implementation: [RavdecJS](https://www.npmjs.com/package/ravdecjs).
-- 💼 Working experience in product-focused startups in the field of Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing.
 - 📝 <i><b>Poetry & Reflections</b></i>:
   - [Not A Play](https://mr-ravin.github.io/poet).
   - [To be](https://mr-ravin.github.io/poet).
