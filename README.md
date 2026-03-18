@@ -20,7 +20,7 @@ Some of his achievements are mentioned below:
     - [Adding Binary Search Connections to Improve DenseNet Performance](https://doi.org/10.2139/ssrn.3545071).
       <!-- Adding Binary Search Connections to Improve DenseNet Performance--Conference Proceedings of NGCT-- https://doi.org/10.2139/ssrn.3545071 -->
     - [New Approach to Train LSTMs, GRUs, and Other Similar Networks for Data Generation](https://doi.org/10.1007/978-981-15-1718-1_14).
-    - White Paper: [A Theoretical Model For Artificial Learning, Memory Management And Decision Making System](https://arxiv.org/abs/1907.04698), published in 2019 (written in 2015).
+    - White Paper: [A Theoretical Model For Artificial Learning, Memory Management And Decision Making System](https://arxiv.org/abs/1907.04698), published in 2019 (written in 2015-16).
   - ⚛ Quantum Computing
     - [A Generalized Quantum Algorithm for Assuring Fairness in Random Selection Among 2<sup>N</sup> Participants](https://doi.org/10.1007/s42979-020-0091-z).
   - 💻 Algorithm Design and Operating System
