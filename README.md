@@ -53,14 +53,14 @@ Some of his achievements are mentioned below:
   - ⚛  [Qrandom](https://github.com/mr-ravin/QrandomSelection): A python implementation of A Generalized Quantum Algorithm for Assuring Fairness in Random Selection Among 2<sup>N</sup> Participants. pip package: `pip install qrandom`
   - 🚀 [Ravdec](https://github.com/mr-ravin/ravdec): Ravdec is a Python module implementing a **lossless data compression** algorithm designed by [Ravin Kumar](https://mr-ravin.github.io). This algorithm is designed exclusively for **textual data**, including **alphabets, numbers, and symbols**. The algorithm is available in Python as pip package: `pip install ravdec` and in Javascript as npm package: `npm i ravdecjs`. Github for Python implementation: [Ravdec](https://github.com/mr-ravin/ravdec) and Javascript implementation: [RavdecJS](https://www.npmjs.com/package/ravdecjs).
 - 📝 <i><b>Poetry & Reflections</b></i>:
+  - [आख़िरी हिम्मत (Aakhiri Himmat)](https://mr-ravin.github.io/poet).
+  - [बस इंसान (Bas Insaan)](https://mr-ravin.github.io/poet).
   - [Not A Play](https://mr-ravin.github.io/poet).
   - [To be](https://mr-ravin.github.io/poet).
   - [The devil's rule](https://mr-ravin.github.io/poet).
   - [A Journey](https://mr-ravin.github.io/poet).
 - 📃 <i><b>Ravin Writings</b></i>:
   - [The River Between Us: Because Even Rivers Choose Love](https://mr-ravin.github.io/The_River_Between_Us__by_Ravin_Kumar.pdf).
-  - [आख़िरी हिम्मत (Aakhiri Himmat)](https://mr-ravin.github.io/Aakhiri_Himmat.pdf).
-  - [बस इंसान (Bas Insaan)](https://mr-ravin.github.io/Bas_Insaan.pdf).
 - 🎨 <i><b>Art & Expression</b></i>:
     - [Artist's Portfolio](https://mr-ravin.github.io/artistravin).
   
