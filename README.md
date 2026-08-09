@@ -17,8 +17,6 @@ Some of his achievements are mentioned below:
     <!-- APTx: Better Activation Function than MISH, SWISH, and ReLU's Variants used in Deep Learning -- Peer Reviewed Version of APTX is in International Journal of Artificia Intelligence and Machine Learning  --https://doi.org/10.51483/IJAIML.2.2.2022.56-61 -->
     - [Cerebral LSTM: A Better Alternative for Single- and Multi-Stacked LSTM Cell-Based RNNs](https://doi.org/10.1007/s42979-020-0101-1).
     - [Visual Linguistic Model and Its Applications in Image Captioning](https://doi.org/10.1007/s42979-020-00135-w).
-    - [Adding Binary Search Connections to Improve DenseNet Performance](https://doi.org/10.2139/ssrn.3545071).
-      <!-- Adding Binary Search Connections to Improve DenseNet Performance--Conference Proceedings of NGCT-- https://doi.org/10.2139/ssrn.3545071 -->
     - [New Approach to Train LSTMs, GRUs, and Other Similar Networks for Data Generation](https://doi.org/10.1007/978-981-15-1718-1_14).
     - White Paper: [A Theoretical Model For Artificial Learning, Memory Management And Decision Making System](https://arxiv.org/abs/1907.04698), published in 2019 (written in 2015-16).
   - ⚛ Quantum Computing
