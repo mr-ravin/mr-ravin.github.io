@@ -30,7 +30,7 @@ Some of his achievements are mentioned below:
     - [A Theorem on Numbers of the Form 10<sup>x</sup>](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.81d467c69abaacb62887.pdf).
     - [Theorems for Arcs of Different Circles having Same Arc-Angles with Application in Concave and Convex Structures](https://mr-ravin.github.io/mathematician/static/media/TheoremsForArcsOfDifferentCircles.3d3f1b808d7cc9312931.pdf).
   - 💰 Theoretical Economics
-    - The Economics of Sovereignty: Phased Virtual Currency and Coalition Reserve Entity.
+    - [The Economics of Sovereignty: Phased Virtual Currency and Coalition Reserve Entity](https://doi.org/10.1007/978-3-032-27754-1_13).
     - [Addictive auctions: using lucky-draw and gambling addiction to increase participation during auctioning](https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7e7d2c2b61478.pdf).
 - 🎮 <i><b>Indie-Game Developer</b></i>: 
   - [x] [Rotation Wars 2](https://github.com/mr-ravin/rotationwars2): An open-source, minimalistic multiplayer game built with **Unity3D** for [Android](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars2), Linux, and [Web Browser](https://ravinkumar.itch.io/rotationwars2). Players battle on a dynamically rotating platform, pushing and maneuvering to stay on while knocking opponents off. The last player standing wins.
